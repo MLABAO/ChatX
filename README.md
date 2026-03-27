@@ -62,4 +62,5 @@ ChatX 不只是帮助你“回复消息”，
 提高沟通效率
 放大转化能力
 
-### 前往[ChatX官网](https://onechat.chat)下载最新版本。
+### 前往<a href="https://onechat.chat"><u>ChatX官网</u></a>
+下载最新版本。
